@@ -12,8 +12,8 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Wireshark Demos</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Malware Analysis</b>
+  - [Walkthrough Demos of Malware Analysis with Wireshark]()
 - <b>Education/Certifications</b>
   - [Splunk Enterprise Security Certified Admin](https://www.credly.com/badges/603c0768-ddc7-4b9c-818f-fe10153c5f7c)
   - [Splunk Certified Admin](https://www.credly.com/badges/7e54841b-5247-4c26-b5d4-9089ecfdc43f)
