@@ -6,6 +6,7 @@
   - [Active Directory Home Lab (Bulk User Creation)](https://github.com/joshmadakor1/AD_PS)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Log File Cleaner Automation](https://github.com/Nwuche01/Automated-Log-File-Cleaner) 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>C# (.NET Desktop Applications)</b>
