@@ -3,7 +3,7 @@
 <h2>👨‍💻 Splunk/CyberSecurity Projects and Demos:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Home Lab (Bulk User Creation)](https://github.com/Nwuche01/Creating-Users-in-Active-Directory-with-Powershell)
+  - [Creating Users in Active Directory With Powershell](https://github.com/Nwuche01/Creating-Users-in-Active-Directory-with-Powershell)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   - [Log File Cleaner Automation](https://github.com/Nwuche01/Automated-Log-File-Cleaner) 
