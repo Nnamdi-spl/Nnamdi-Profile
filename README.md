@@ -9,10 +9,7 @@
   - [Log File Cleaner Automation](https://github.com/Nwuche01/Automated-Log-File-Cleaner) 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
 - <b>Malware Analysis</b>
   - [Walkthrough Demos of Malware Analysis with Wireshark](https://github.com/Nwuche01/MalwareAnalysisWith-Wireshak)
 - <b>Education/Certifications</b>
