@@ -4,7 +4,7 @@
 
 - <b>PowerShell</b>
   - [Creating Users in Active Directory With Powershell](https://github.com/Nwuche01/Creating-Users-in-Active-Directory-with-Powershell)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)](https://github.com/Nwuche01/Powershell_Intergrity_Fim)
   - [Log File Cleaner Automation](https://github.com/Nwuche01/Automated-Log-File-Cleaner) 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
