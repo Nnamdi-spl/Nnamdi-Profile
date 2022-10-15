@@ -8,6 +8,8 @@
   - [Log File Cleaner Automation](https://github.com/Nwuche01/Automated-Log-File-Cleaner) 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Splunk</b>
+ - [Splunk Indexer Clustering](https://github.com/Nwuche01/Splunk-Indexer-Cluster)
 
 - <b>Malware Analysis</b>
   - [Walkthrough Demos of Malware Analysis with Wireshark](https://github.com/Nwuche01/MalwareAnalysisWith-Wireshak)
