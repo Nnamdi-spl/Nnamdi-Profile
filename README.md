@@ -8,7 +8,7 @@
   - [Log File Cleaner Automation](https://github.com/Nwuche01/Automated-Log-File-Cleaner) 
 - <b>Ansible</b>
   - [Package update automation for remote hosts with Ansible](https://github.com/Nwuche01/Ansible)
-  - [Automating log collection from remote hosts to a central repository with Ansible]()
+  - [Automating log collection from remote hosts to a central repository with Ansible](https://github.com/Nwuche01/Ansible_collect-logs)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Nwuche01/Data-Structures-and-Algorithm/blob/main/README.md#usage)
   - [Information Gathering With Nmap/Python3](https://github.com/Nwuche01/Information-Gathering-with-Nmap-Python3/tree/main)
