@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nnamdi! <br/>Splunk/information security Professional</h1>
+<h1>Hi, I'm Nnamdi! <br/>Splunk/Information Security Professional</h1>
 
 <h2>👨‍💻 Splunk/CyberSecurity Projects and Demos:</h2>
 
