@@ -26,6 +26,7 @@
   - [AWS CCP](https://www.credly.com/badges/5e44fe98-3d20-41c0-99fa-8d2b85b3b802)
   - [Red Hat Cerfied System Admin(RHCSA)](https://rhtapps.redhat.com/certifications/badge/verify/QA27AQX7YEKTSUK2VBGKSVMJJEAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
   - [ServiceNow CSA](https://partnerportal.service-now.com/SearchCertificate.do)
+  - [Cribl Certified Observability Engineer]()
 - <b>Education</b>
   - Bsc Computer Science
   - Msc CyberSecurity and Information Assurance - Ongoing
