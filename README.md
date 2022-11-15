@@ -9,6 +9,7 @@
 - <b>Ansible</b>
   - [Package update automation for remote hosts with Ansible](https://github.com/Nwuche01/Ansible)
   - [Automating log collection from remote hosts to a central repository with Ansible](https://github.com/Nwuche01/Ansible_collect-logs)
+  - [Creating and updating server groups with Ansible](https://github.com/Nwuche01/Ansible_servers)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Nwuche01/Data-Structures-and-Algorithm/blob/main/README.md#usage)
   - [Information Gathering With Nmap/Python3](https://github.com/Nwuche01/Information-Gathering-with-Nmap-Python3/tree/main)
