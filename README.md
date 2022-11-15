@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nnamdi! <br/>Splunk/Information Security Professional</h1>
 
-<h2>👨‍💻 Splunk/CyberSecurity Projects and Demos:</h2>
+<h2>👨‍💻 Projects and Demos:</h2>
 
 - <b>PowerShell</b>
   - [Creating Users in Active Directory With Powershell](https://github.com/Nwuche01/Creating-Users-in-Active-Directory-with-Powershell)
